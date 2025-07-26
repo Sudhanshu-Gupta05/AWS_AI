@@ -1,0 +1,1 @@
+Project Details : This project demonstrates usage of ML by getting all top stories and determine sentiment of new whether its positive,negative or neutral. System_Arch gives detail explaination of components involved. 
